@@ -18,7 +18,6 @@ Then we clone the fork and add the `upstream` remote to point to the original re
 
 ```bash
 git clone https://github.com/<github-username>/language-packs
-git clone https://github.com/goanpeca/language-packs
 cd language-packs
 git remote add upstream https://github.com/jupyterlab/language-packs
 ```
@@ -48,7 +47,6 @@ Then we clone the fork and add the `upstream` remote to point to the original re
 
 ```bash
 git clone https://github.com/<github-username>/jupyterlab.git
-git clone https://github.com/goanpeca/jupyterlab.git
 cd jupyterlab
 git remote add upstream https://github.com/jupyterlab/jupyterlab.git
 ```
